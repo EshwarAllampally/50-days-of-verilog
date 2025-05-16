@@ -1,0 +1,3 @@
+git add dayXX assets
+git commit -m "Day XX - <module name>"
+git push origin main

@@ -1,0 +1,9 @@
+# Ignore waveform output files
+*.vcd
+
+# Ignore simulator logs
+*.log
+
+# Ignore editor-specific files (add your editor here)
+.vscode/
+*.swp
