@@ -4,6 +4,9 @@
 # Ignore simulator logs
 *.log
 
+#Notes to self
+*.txt
+
 # Ignore editor-specific files (add your editor here)
 .vscode/
 *.swp
